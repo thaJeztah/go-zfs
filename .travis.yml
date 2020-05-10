@@ -13,6 +13,7 @@ branches:
 env:
   - rel=0.6.5.11
   - rel=0.7.13
+  - rel=0.8.3
 
 go:
   - "1.13.x"
